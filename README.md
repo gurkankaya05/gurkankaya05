@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**gurkankaya05/gurkankaya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Gürkan
+#### Jr. Blockchain Developer
+![-Jr Blockchain Developer-](https://64.media.tumblr.com/86c13dec7f8bdc6a0fdea4cfb1255a63/tumblr_p5va173yJf1tcvan1o1_1280.gifv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gurkankaya05&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurkankaya05)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
