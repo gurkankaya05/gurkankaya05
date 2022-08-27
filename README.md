@@ -8,11 +8,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurkankaya05&theme=blue-green&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurkankaya05&theme=tokyonight&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkankaya05&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="center"  style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkankaya05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="left"  style="width: 100%" />
 
 </td></tr></table>  
 
